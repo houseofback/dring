@@ -1,6 +1,6 @@
 baseurl                 = "http://replace-this-with-your-hugo-site.com/"
 languageCode            = "en-us"
-title                   = "Hugo Phlat Theme"
+title                   = "Dringhouses Primary School"
 theme                   = "hugo-phlat-theme"
 
 [permalinks]
