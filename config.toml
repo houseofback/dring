@@ -18,6 +18,41 @@ theme                   = "hugo-phlat-theme"
     url                 = "/"
 
 [[menu.header]]
+    name                = "Our School"
+    weight              = 2
+    url                 = "/info/"
+
+  [[menu.header]]
+    name                = "Teaching & Learning"
+    weight              = 2
+    url                 = "/info/"
+
+  [[menu.header]]
+    name                = "Parents"
+    weight              = 2
+    url                 = "/info/"
+
+  [[menu.header]]
+    name                = "Staff"
+    weight              = 2
+    url                 = "/info/"
+
+  [[menu.header]]
+    name                = "Gallery"
+    weight              = 2
+    url                 = "/info/"
+
+  [[menu.header]]
+    name                = "Links"
+    weight              = 2
+    url                 = "/info/"
+
+  [[menu.header]]
+    name                = "Careers"
+    weight              = 2
+    url                 = "/info/"
+
+[[menu.header]]
     name                = "About"
     weight              = 3
     url                 = "/about/"
