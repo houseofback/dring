@@ -1,18 +1,29 @@
 +++
 author = "Nic Raboy"
 categories = ["hugo", "theme"]
-date = "2016-07-25T16:30:56-07:00"
+date = "2016-05-10T16:30:56-07:00"
 description = "description"
 draft = false
 tags = ["post", "article", "demo", "example"]
-title = "Lion King Photos Available"
+title = "Open Days for Prospective Parents"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Visit the Gallery (TODO LINK) page to see some pictures from our fantastic end of term Lion King productions
+If you have a child starting school in September 2017, you would be welcome to visit the school on one of the following open days.
 
 <!--more-->
+
+Please call the school office on 01904 553940 to book a place.
+
+
+Monday 10th October 11.15am
+
+Wednesday 12th October 2pm
+
+Monday 5th December 11.15am
+
+Wednesday 7th December 2pm
+
+Many thanks
 
 ## Heading 2
 
