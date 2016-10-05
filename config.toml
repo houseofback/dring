@@ -40,7 +40,7 @@ theme                   = "hugo-phlat-theme"
   [[menu.header]]
     name                = "Gallery"
     weight              = 2
-    url                 = "/info/"
+    url                 = "/gallery/"
 
   [[menu.header]]
     name                = "Links"

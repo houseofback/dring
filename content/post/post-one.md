@@ -1,5 +1,5 @@
 +++
-author = "Nic Raboy"
+author = "Miss Smith"
 categories = ["hugo", "flat"]
 date = "2016-07-25T18:17:52-07:00"
 description = "description"
